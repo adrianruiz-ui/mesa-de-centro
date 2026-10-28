@@ -10,4 +10,4 @@ La página incluye modelo 3D (Three.js), planos con cotas, despiece de tableros,
 
 Precios revisados el 28 de octubre de 2026. Los marcados como estimados son rangos de mercado.
 
-Para verla, abre `index.html` o activa GitHub Pages en la rama `main`.
+**Sitio:** https://adrianruiz-ui.github.io/mesa-de-centro/
